@@ -1,0 +1,128 @@
+[
+  {
+    "date": "2026-09-10",
+    "temp_max": 21.0,
+    "temp_min": 11.4,
+    "precipitation": 0.0,
+    "weathercode": 3,
+    "condition": "Couvert",
+    "icone": "☁️"
+  },
+  {
+    "date": "2026-09-11",
+    "temp_max": 23.3,
+    "temp_min": 15.4,
+    "precipitation": 0.3,
+    "weathercode": 80,
+    "condition": "Averses légères",
+    "icone": "🌦️"
+  },
+  {
+    "date": "2026-09-12",
+    "temp_max": 25.0,
+    "temp_min": 14.9,
+    "precipitation": 0.0,
+    "weathercode": 3,
+    "condition": "Couvert",
+    "icone": "☁️"
+  },
+  {
+    "date": "2026-09-13",
+    "temp_max": 22.1,
+    "temp_min": 16.1,
+    "precipitation": 0.6,
+    "weathercode": 61,
+    "condition": "Pluie légère",
+    "icone": "🌦️"
+  },
+  {
+    "date": "2026-09-14",
+    "temp_max": 26.3,
+    "temp_min": 16.6,
+    "precipitation": 0.6,
+    "weathercode": 80,
+    "condition": "Averses légères",
+    "icone": "🌦️"
+  },
+  {
+    "date": "2026-09-15",
+    "temp_max": 25.6,
+    "temp_min": 14.8,
+    "precipitation": 0.0,
+    "weathercode": 3,
+    "condition": "Couvert",
+    "icone": "☁️"
+  },
+  {
+    "date": "2026-09-16",
+    "temp_max": 20.2,
+    "temp_min": 13.2,
+    "precipitation": 0.0,
+    "weathercode": 3,
+    "condition": "Couvert",
+    "icone": "☁️"
+  },
+  {
+    "date": "2026-09-17",
+    "temp_max": 17.3,
+    "temp_min": 9.6,
+    "precipitation": 2.1,
+    "weathercode": 51,
+    "condition": "Bruine légère",
+    "icone": "🌦️"
+  },
+  {
+    "date": "2026-09-18",
+    "temp_max": 22.5,
+    "temp_min": 15.8,
+    "precipitation": 1.5,
+    "weathercode": 51,
+    "condition": "Bruine légère",
+    "icone": "🌦️"
+  },
+  {
+    "date": "2026-09-19",
+    "temp_max": 20.6,
+    "temp_min": 12.7,
+    "precipitation": 0.0,
+    "weathercode": 3,
+    "condition": "Couvert",
+    "icone": "☁️"
+  },
+  {
+    "date": "2026-09-20",
+    "temp_max": 20.4,
+    "temp_min": 13.8,
+    "precipitation": 0.0,
+    "weathercode": 2,
+    "condition": "Partiellement nuageux",
+    "icone": "⛅"
+  },
+  {
+    "date": "2026-09-21",
+    "temp_max": 23.1,
+    "temp_min": 10.9,
+    "precipitation": 0.0,
+    "weathercode": 0,
+    "condition": "Ciel dégagé",
+    "icone": "☀️"
+  },
+  {
+    "date": "2026-09-22",
+    "temp_max": 24.4,
+    "temp_min": 12.0,
+    "precipitation": 0.0,
+    "weathercode": 0,
+    "condition": "Ciel dégagé",
+    "icone": "☀️"
+  },
+  {
+    "date": "2026-09-23",
+    "temp_max": 27.0,
+    "temp_min": 13.5,
+    "precipitation": 0.0,
+    "weathercode": 1,
+    "condition": "Plutôt dégagé",
+    "icone": "🌤️"
+  }
+]
