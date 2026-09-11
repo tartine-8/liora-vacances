@@ -1,5 +1,14 @@
 [
   {
+    "id": 27091941,
+    "categorie": "cinema",
+    "nom": "Le Capitole",
+    "lat": 48.8705516,
+    "lon": 2.2287072,
+    "horaires": "Mo-Fr 11:15-23:00; Sa 13:00-23:00",
+    "adresse": "Rue Ledru-Rollin"
+  },
+  {
     "id": 130102845,
     "categorie": "museum",
     "nom": "Musée de l'Armée",
@@ -54,6 +63,15 @@
     "adresse": "Place de La Défense"
   },
   {
+    "id": 205106396,
+    "categorie": "cinema",
+    "nom": "Ciné d'Issy",
+    "lat": 48.8254063,
+    "lon": 2.2701921,
+    "horaires": null,
+    "adresse": "Rue Danton"
+  },
+  {
     "id": 205462084,
     "categorie": "restaurant",
     "nom": "Soleil d'Or",
@@ -69,6 +87,15 @@
     "lat": 48.8907277,
     "lon": 2.23561,
     "horaires": null,
+    "adresse": null
+  },
+  {
+    "id": 232928765,
+    "categorie": "cinema",
+    "nom": "Pathé Aquaboulevard",
+    "lat": 48.8307302,
+    "lon": 2.276181,
+    "horaires": "Mo-Su 10:00-00:30",
     "adresse": null
   },
   {
@@ -792,6 +819,42 @@
     "adresse": "Rue Auguste Gervais"
   },
   {
+    "id": 259439927,
+    "categorie": "cinema",
+    "nom": "Pathé Parnasse",
+    "lat": 48.8430732,
+    "lon": 2.3244918,
+    "horaires": null,
+    "adresse": null
+  },
+  {
+    "id": 259439940,
+    "categorie": "cinema",
+    "nom": "UGC Rotonde",
+    "lat": 48.8424534,
+    "lon": 2.3289276,
+    "horaires": "Mo 00:00-00:30,10:45-00:30; Tu-Sa 10:45-00:30; Su 10:45-24:00",
+    "adresse": null
+  },
+  {
+    "id": 259440049,
+    "categorie": "cinema",
+    "nom": "UGC Montparnasse",
+    "lat": 48.8434993,
+    "lon": 2.3257407,
+    "horaires": "Mo 00:00-00:30,12:30-00:30; Tu 12:30-00:30; We 10:30-00:30; Th-Sa 12:30-00:30; Su 10:30-24:00",
+    "adresse": null
+  },
+  {
+    "id": 259440483,
+    "categorie": "cinema",
+    "nom": "Pathé Montparnos",
+    "lat": 48.842099,
+    "lon": 2.3244151,
+    "horaires": null,
+    "adresse": null
+  },
+  {
     "id": 259856251,
     "categorie": "restaurant",
     "nom": "Les Artisans",
@@ -817,6 +880,15 @@
     "lon": 2.2678173,
     "horaires": null,
     "adresse": "Boulevard Gallieni"
+  },
+  {
+    "id": 262239996,
+    "categorie": "cinema",
+    "nom": "Cinéma Chaplin",
+    "lat": 48.8430675,
+    "lon": 2.2985309,
+    "horaires": null,
+    "adresse": "Rue Péclet"
   },
   {
     "id": 268057538,
@@ -1260,6 +1332,51 @@
     "adresse": null
   },
   {
+    "id": 319851795,
+    "categorie": "cinema",
+    "nom": "Sept Parnassiens",
+    "lat": 48.8419521,
+    "lon": 2.3275212,
+    "horaires": "Mo-Su 11:30-23:30",
+    "adresse": "Boulevard du Montparnasse"
+  },
+  {
+    "id": 320952619,
+    "categorie": "cinema",
+    "nom": "Le Champo",
+    "lat": 48.8499668,
+    "lon": 2.3431463,
+    "horaires": null,
+    "adresse": null
+  },
+  {
+    "id": 320952621,
+    "categorie": "cinema",
+    "nom": "Reflet Médicis",
+    "lat": 48.8497506,
+    "lon": 2.3430251,
+    "horaires": null,
+    "adresse": "Rue Champollion"
+  },
+  {
+    "id": 321011961,
+    "categorie": "cinema",
+    "nom": "UGC",
+    "lat": 48.8328721,
+    "lon": 2.3542398,
+    "horaires": "Mo 00:00-00:30,10:00-00:30; Tu-Sa 10:00-00:30; Su 10:00-24:00",
+    "adresse": null
+  },
+  {
+    "id": 321012070,
+    "categorie": "cinema",
+    "nom": "Pathé Les Fauvettes",
+    "lat": 48.8335377,
+    "lon": 2.3537784,
+    "horaires": null,
+    "adresse": null
+  },
+  {
     "id": 321248294,
     "categorie": "restaurant",
     "nom": "La Manufacture",
@@ -1275,6 +1392,15 @@
     "lat": 48.833417,
     "lon": 2.355449,
     "horaires": "Mo-Fr 12:00-14:00,19:00-21:00",
+    "adresse": null
+  },
+  {
+    "id": 322020025,
+    "categorie": "cinema",
+    "nom": "MK2 Odéon (côté Saint-Germain)",
+    "lat": 48.8524157,
+    "lon": 2.3382646,
+    "horaires": null,
     "adresse": null
   },
   {
@@ -1746,6 +1872,15 @@
     "adresse": "Rue Chaligny"
   },
   {
+    "id": 428064589,
+    "categorie": "cinema",
+    "nom": "MK2 Nation",
+    "lat": 48.8482399,
+    "lon": 2.3931394,
+    "horaires": null,
+    "adresse": "Boulevard Diderot"
+  },
+  {
     "id": 428064691,
     "categorie": "restaurant",
     "nom": "Le Pacha",
@@ -1771,6 +1906,15 @@
     "lon": 2.3820511,
     "horaires": "12:00-16:00,18:00-24:00",
     "adresse": "Boulevard Diderot"
+  },
+  {
+    "id": 428065606,
+    "categorie": "cinema",
+    "nom": "MK2 Beaubourg",
+    "lat": 48.8615738,
+    "lon": 2.3524143,
+    "horaires": null,
+    "adresse": "Rue Rambuteau"
   },
   {
     "id": 428141439,
@@ -1872,6 +2016,24 @@
     "adresse": null
   },
   {
+    "id": 429418989,
+    "categorie": "cinema",
+    "nom": "Le Kosmos",
+    "lat": 48.8528285,
+    "lon": 2.4676933,
+    "horaires": "\"Depends on screening hours of movies\"",
+    "adresse": null
+  },
+  {
+    "id": 429464447,
+    "categorie": "cinema",
+    "nom": "L'Escurial",
+    "lat": 48.8367895,
+    "lon": 2.3496828,
+    "horaires": null,
+    "adresse": "Boulevard de Port-Royal"
+  },
+  {
     "id": 429488766,
     "categorie": "restaurant",
     "nom": "Le Canon des Gobelins",
@@ -1899,6 +2061,15 @@
     "adresse": "Rue Berger"
   },
   {
+    "id": 441163562,
+    "categorie": "cinema",
+    "nom": "Cinéma Marcel Pagnol",
+    "lat": 48.8208779,
+    "lon": 2.3028025,
+    "horaires": null,
+    "adresse": null
+  },
+  {
     "id": 442505759,
     "categorie": "restaurant",
     "nom": "La Caravane",
@@ -1924,6 +2095,15 @@
     "lon": 2.353231,
     "horaires": null,
     "adresse": null
+  },
+  {
+    "id": 445621520,
+    "categorie": "cinema",
+    "nom": "La Clef",
+    "lat": 48.8411613,
+    "lon": 2.3524312,
+    "horaires": null,
+    "adresse": "Rue Daubenton"
   },
   {
     "id": 445648014,
@@ -1986,6 +2166,15 @@
     "lat": 48.8477867,
     "lon": 2.4406732,
     "horaires": "Mo-Sa 11:30-14:00,18:30-22:00",
+    "adresse": null
+  },
+  {
+    "id": 457090434,
+    "categorie": "cinema",
+    "nom": "La Filmothèque du Quartier latin",
+    "lat": 48.8494965,
+    "lon": 2.3428666,
+    "horaires": null,
     "adresse": null
   },
   {
@@ -2547,6 +2736,15 @@
     "adresse": null
   },
   {
+    "id": 530272920,
+    "categorie": "cinema",
+    "nom": "UGC Lyon Bastille",
+    "lat": 48.8475201,
+    "lon": 2.3719469,
+    "horaires": "Mo-Tu 00:00-00:15,12:30-22:00; We 00:00-00:15,10:30-22:30; Th-Fr 00:00-00:15,12:30-22:30; Sa-Su 00:00-00:15,10:30-22:30",
+    "adresse": null
+  },
+  {
     "id": 530272921,
     "categorie": "restaurant",
     "nom": "Ginza",
@@ -2554,6 +2752,24 @@
     "lon": 2.3727405,
     "horaires": null,
     "adresse": null
+  },
+  {
+    "id": 530273787,
+    "categorie": "cinema",
+    "nom": "MK2 Bastille (côté Faubourg Saint-Antoine)",
+    "lat": 48.8531618,
+    "lon": 2.3707603,
+    "horaires": null,
+    "adresse": null
+  },
+  {
+    "id": 530273789,
+    "categorie": "cinema",
+    "nom": "Majestic Bastille",
+    "lat": 48.8539688,
+    "lon": 2.3699642,
+    "horaires": null,
+    "adresse": "Boulevard Richard-Lenoir"
   },
   {
     "id": 530275195,
@@ -2808,6 +3024,15 @@
     "adresse": null
   },
   {
+    "id": 546922441,
+    "categorie": "cinema",
+    "nom": "Cinéma des Cinéastes",
+    "lat": 48.8842985,
+    "lon": 2.3268322,
+    "horaires": null,
+    "adresse": null
+  },
+  {
     "id": 546940270,
     "categorie": "restaurant",
     "nom": "WASL 1880",
@@ -2833,6 +3058,15 @@
     "lon": 2.4227092,
     "horaires": null,
     "adresse": null
+  },
+  {
+    "id": 554267918,
+    "categorie": "cinema",
+    "nom": "Studio Galande",
+    "lat": 48.8516341,
+    "lon": 2.3471068,
+    "horaires": null,
+    "adresse": "Rue Galande"
   },
   {
     "id": 556432368,
@@ -3085,6 +3319,15 @@
     "lon": 2.3547735,
     "horaires": "Mo-Su 07:00-02:00",
     "adresse": "Rue des Archives"
+  },
+  {
+    "id": 599514506,
+    "categorie": "cinema",
+    "nom": "Luminor Hôtel de ville",
+    "lat": 48.8586559,
+    "lon": 2.3536069,
+    "horaires": null,
+    "adresse": "Rue du Temple"
   },
   {
     "id": 609099358,
@@ -3454,6 +3697,15 @@
     "lon": 2.3394255,
     "horaires": null,
     "adresse": null
+  },
+  {
+    "id": 667281522,
+    "categorie": "cinema",
+    "nom": "Pathé Quai d'Ivry",
+    "lat": 48.8242173,
+    "lon": 2.388231,
+    "horaires": null,
+    "adresse": "Rue François Mitterrand"
   },
   {
     "id": 667304728,
@@ -4230,6 +4482,15 @@
     "adresse": null
   },
   {
+    "id": 687044630,
+    "categorie": "cinema",
+    "nom": "Pathé BNP Paribas",
+    "lat": 48.8707067,
+    "lon": 2.3344669,
+    "horaires": null,
+    "adresse": null
+  },
+  {
     "id": 687044631,
     "categorie": "restaurant",
     "nom": "Hippopotamus",
@@ -4362,6 +4623,15 @@
     "lat": 48.8705114,
     "lon": 2.3429132,
     "horaires": "Mo-Th 12:00-14:30,19:00-22:30 ; Fr-Su 11:30-23:00",
+    "adresse": null
+  },
+  {
+    "id": 690982176,
+    "categorie": "cinema",
+    "nom": "Le Grand Rex",
+    "lat": 48.8705334,
+    "lon": 2.3476486,
+    "horaires": null,
     "adresse": null
   },
   {
@@ -5355,6 +5625,15 @@
     "adresse": null
   },
   {
+    "id": 778288996,
+    "categorie": "cinema",
+    "nom": "Le St Germain des Prés",
+    "lat": 48.8546484,
+    "lon": 2.3333477,
+    "horaires": null,
+    "adresse": "Rue Guillaume Apollinaire"
+  },
+  {
     "id": 778318806,
     "categorie": "restaurant",
     "nom": "Monica",
@@ -5398,6 +5677,15 @@
     "lon": 2.3407718,
     "horaires": "Mo-Su 08:00-21:00",
     "adresse": "Boulevard Saint-Michel"
+  },
+  {
+    "id": 785542377,
+    "categorie": "cinema",
+    "nom": "L'Arlequin",
+    "lat": 48.8511931,
+    "lon": 2.3304049,
+    "horaires": null,
+    "adresse": "Rue de Rennes"
   },
   {
     "id": 785653847,
@@ -5641,6 +5929,15 @@
     "lon": 2.2397803,
     "horaires": "Tu-Su 11:00-18:00",
     "adresse": "Avenue André Morizet"
+  },
+  {
+    "id": 802009153,
+    "categorie": "cinema",
+    "nom": "Pathé Boulogne",
+    "lat": 48.8377591,
+    "lon": 2.2393726,
+    "horaires": "Mo-Su 13:15-00:30",
+    "adresse": null
   },
   {
     "id": 802013474,
@@ -6062,6 +6359,15 @@
     "nom": "Le Fouquet's",
     "lat": 48.8714268,
     "lon": 2.3012028,
+    "horaires": null,
+    "adresse": null
+  },
+  {
+    "id": 829202986,
+    "categorie": "cinema",
+    "nom": "Le Lincoln",
+    "lat": 48.8705479,
+    "lon": 2.3032157,
     "horaires": null,
     "adresse": null
   },
@@ -7128,6 +7434,24 @@
     "adresse": "Avenue Kléber"
   },
   {
+    "id": 929916801,
+    "categorie": "cinema",
+    "nom": "UGC Odéon",
+    "lat": 48.8523614,
+    "lon": 2.3398708,
+    "horaires": "Mo 00:00-00:30,10:00-00:30; Tu-Sa 10:00-00:30; Su 10:00-24:00",
+    "adresse": null
+  },
+  {
+    "id": 929916803,
+    "categorie": "cinema",
+    "nom": "UGC Danton",
+    "lat": 48.8521181,
+    "lon": 2.3389438,
+    "horaires": "Mo 00:00-00:30,10:00-00:30; Tu-Sa 10:00-00:30; Su 10:00-24:00",
+    "adresse": "Boulevard St-Germain"
+  },
+  {
     "id": 932276881,
     "categorie": "restaurant",
     "nom": "Carette",
@@ -7575,6 +7899,15 @@
     "lat": 48.8483551,
     "lon": 2.3757849,
     "horaires": "Mo-Su 08:30-23:30",
+    "adresse": null
+  },
+  {
+    "id": 952053744,
+    "categorie": "cinema",
+    "nom": "Cinéma Louis Lumière",
+    "lat": 48.8953649,
+    "lon": 2.3864414,
+    "horaires": null,
     "adresse": null
   },
   {
@@ -9486,6 +9819,15 @@
     "adresse": null
   },
   {
+    "id": 1137875571,
+    "categorie": "cinema",
+    "nom": "Le Central",
+    "lat": 48.8844376,
+    "lon": 2.236731,
+    "horaires": null,
+    "adresse": "Rue de la République"
+  },
+  {
     "id": 1142802917,
     "categorie": "restaurant",
     "nom": "L'Orée du Parc",
@@ -10008,6 +10350,15 @@
     "adresse": "Rue Édouard VII"
   },
   {
+    "id": 1223768263,
+    "categorie": "restaurant",
+    "nom": "Le Dôme",
+    "lat": 48.8576288,
+    "lon": 2.3004485,
+    "horaires": "Mo-Su 07:00-02:00",
+    "adresse": null
+  },
+  {
     "id": 1223805591,
     "categorie": "restaurant",
     "nom": "Carmine",
@@ -10348,6 +10699,15 @@
     "lon": 2.3354693,
     "horaires": null,
     "adresse": null
+  },
+  {
+    "id": 1242991253,
+    "categorie": "cinema",
+    "nom": "Studio 28",
+    "lat": 48.8861381,
+    "lon": 2.3353884,
+    "horaires": null,
+    "adresse": "Rue Tholozé"
   },
   {
     "id": 1243135895,
@@ -11986,6 +12346,159 @@
     "lon": 2.3483534,
     "horaires": null,
     "adresse": "Rue de la Montagne Sainte-Geneviève"
+  },
+  {
+    "id": 1427838200,
+    "categorie": "cinema",
+    "nom": "Écoles Cinéma Club",
+    "lat": 48.8483619,
+    "lon": 2.3489766,
+    "horaires": null,
+    "adresse": "Rue des Écoles"
+  },
+  {
+    "id": 1427838201,
+    "categorie": "cinema",
+    "nom": "Le Grand Action",
+    "lat": 48.8475212,
+    "lon": 2.3521266,
+    "horaires": null,
+    "adresse": "Rue des Écoles"
+  },
+  {
+    "id": 1427838202,
+    "categorie": "cinema",
+    "nom": "L'Épée de Bois",
+    "lat": 48.8412698,
+    "lon": 2.3495453,
+    "horaires": null,
+    "adresse": null
+  },
+  {
+    "id": 1427838203,
+    "categorie": "cinema",
+    "nom": "Espace Saint-Michel",
+    "lat": 48.8530712,
+    "lon": 2.3442898,
+    "horaires": null,
+    "adresse": "Boulevard Saint-Michel"
+  },
+  {
+    "id": 1427978193,
+    "categorie": "cinema",
+    "nom": "Nouvel Odéon",
+    "lat": 48.8508083,
+    "lon": 2.3417802,
+    "horaires": null,
+    "adresse": "Rue de l'École de Médecine"
+  },
+  {
+    "id": 1427978194,
+    "categorie": "cinema",
+    "nom": "Saint-André des Arts",
+    "lat": 48.8533737,
+    "lon": 2.3421249,
+    "horaires": null,
+    "adresse": null
+  },
+  {
+    "id": 1427978195,
+    "categorie": "cinema",
+    "nom": "Les 3 Luxembourg",
+    "lat": 48.848402,
+    "lon": 2.3408453,
+    "horaires": null,
+    "adresse": "Rue Monsieur le Prince"
+  },
+  {
+    "id": 1427978196,
+    "categorie": "cinema",
+    "nom": "Christine Cinéma Club",
+    "lat": 48.8544954,
+    "lon": 2.3401739,
+    "horaires": null,
+    "adresse": "Rue Christine"
+  },
+  {
+    "id": 1428007259,
+    "categorie": "cinema",
+    "nom": "5 Caumartin",
+    "lat": 48.8755636,
+    "lon": 2.3279594,
+    "horaires": null,
+    "adresse": null
+  },
+  {
+    "id": 1428007260,
+    "categorie": "cinema",
+    "nom": "Max Linder Panorama",
+    "lat": 48.8713796,
+    "lon": 2.3448127,
+    "horaires": null,
+    "adresse": null
+  },
+  {
+    "id": 1428007262,
+    "categorie": "cinema",
+    "nom": "Le Balzac",
+    "lat": 48.8728804,
+    "lon": 2.2997201,
+    "horaires": null,
+    "adresse": "Rue Balzac"
+  },
+  {
+    "id": 1428007263,
+    "categorie": "cinema",
+    "nom": "Publicis Cinémas",
+    "lat": 48.8726035,
+    "lon": 2.2973109,
+    "horaires": null,
+    "adresse": null
+  },
+  {
+    "id": 1428020597,
+    "categorie": "cinema",
+    "nom": "Le Brady",
+    "lat": 48.8718039,
+    "lon": 2.3554189,
+    "horaires": null,
+    "adresse": null
+  },
+  {
+    "id": 1428020598,
+    "categorie": "cinema",
+    "nom": "MK2 Bastille (côté Beaumarchais)",
+    "lat": 48.8546337,
+    "lon": 2.3690906,
+    "horaires": null,
+    "adresse": "Boulevard Beaumarchais"
+  },
+  {
+    "id": 1428020599,
+    "categorie": "cinema",
+    "nom": "L'Archipel",
+    "lat": 48.8704786,
+    "lon": 2.3546023,
+    "horaires": null,
+    "adresse": null
+  },
+  {
+    "id": 1428083261,
+    "categorie": "cinema",
+    "nom": "Cinema Mac Mahon",
+    "lat": 48.8755476,
+    "lon": 2.2944347,
+    "horaires": null,
+    "adresse": null
+  },
+  {
+    "id": 1428083267,
+    "categorie": "cinema",
+    "nom": "Majestic Passy",
+    "lat": 48.8582496,
+    "lon": 2.2823233,
+    "horaires": null,
+    "adresse": null
   },
   {
     "id": 1429604973,
@@ -13680,15 +14193,6 @@
     "adresse": "Avenue Pierre Lefaucheux"
   },
   {
-    "id": 1615612171,
-    "categorie": "restaurant",
-    "nom": "Cathay Thai",
-    "lat": 48.8182515,
-    "lon": 2.2514494,
-    "horaires": "Tu-Su 12:00-14:00, 19:00-22:00",
-    "adresse": null
-  },
-  {
     "id": 1615612177,
     "categorie": "restaurant",
     "nom": "Daikichi",
@@ -15228,6 +15732,15 @@
     "adresse": null
   },
   {
+    "id": 1749503512,
+    "categorie": "cinema",
+    "nom": "Salle Jacques Prévert",
+    "lat": 48.8186332,
+    "lon": 2.4671885,
+    "horaires": null,
+    "adresse": null
+  },
+  {
     "id": 1750350273,
     "categorie": "restaurant",
     "nom": "Izgara",
@@ -15721,6 +16234,15 @@
     "lon": 2.3220777,
     "horaires": null,
     "adresse": null
+  },
+  {
+    "id": 1801823061,
+    "categorie": "cinema",
+    "nom": "Landowski",
+    "lat": 48.8361476,
+    "lon": 2.2397021,
+    "horaires": null,
+    "adresse": "Avenue André Morizet"
   },
   {
     "id": 1802179917,
@@ -16540,6 +17062,15 @@
     "lon": 2.3451031,
     "horaires": null,
     "adresse": null
+  },
+  {
+    "id": 1896227709,
+    "categorie": "cinema",
+    "nom": "CiNey",
+    "lat": 48.8980891,
+    "lon": 2.3406828,
+    "horaires": "Mo-Su 11:00-23:00",
+    "adresse": "Boulevard Ney"
   },
   {
     "id": 1896243268,
@@ -18212,7 +18743,7 @@
     "nom": "Léon de Bruxelles",
     "lat": 48.8429231,
     "lon": 2.3260926,
-    "horaires": "Mo-Su 11:45-00:00",
+    "horaires": "Mo-Th 11:45-23:00; Fr-Sa 11:45-23:30; Su 11:45-23:00",
     "adresse": "Boulevard du Montparnasse"
   },
   {
@@ -18520,6 +19051,15 @@
     "lon": 2.3016492,
     "horaires": "Mo-Su 12:00-14:30, 19:00-22:00",
     "adresse": "Rue Jouffroy d'Abbans"
+  },
+  {
+    "id": 2123993297,
+    "categorie": "cinema",
+    "nom": "Cinémathèque Robert Lynen",
+    "lat": 48.8832431,
+    "lon": 2.3117825,
+    "horaires": "Mo-Fr 09:00-18:00",
+    "adresse": "Rue Jacques Bingen"
   },
   {
     "id": 2124630146,
@@ -28463,7 +29003,7 @@
     "nom": "Il Duca",
     "lat": 48.8843147,
     "lon": 2.3391982,
-    "horaires": null,
+    "horaires": "Tu-Su 12:00-14:30,18:00-23:00",
     "adresse": "Rue Yvonne Le Tac"
   },
   {
@@ -29266,6 +29806,15 @@
     "lon": 2.329955,
     "horaires": "Tu-Su 11:30-14:30, 18:00-23:30",
     "adresse": "Rue Montbrun"
+  },
+  {
+    "id": 2996098404,
+    "categorie": "cinema",
+    "nom": "L'Entrepôt (Cinéma)",
+    "lat": 48.8339547,
+    "lon": 2.3165786,
+    "horaires": "Mo-Su 10:00-20:30",
+    "adresse": "Rue Francis de Pressensé"
   },
   {
     "id": 2996099162,
@@ -30339,6 +30888,15 @@
     "adresse": null
   },
   {
+    "id": 3109085232,
+    "categorie": "cinema",
+    "nom": "UGC Opéra",
+    "lat": 48.8713746,
+    "lon": 2.3353089,
+    "horaires": "Mo 00:00-00:30,12:30-00:30; Tu-Sa 12:30-00:30; Su 10:30-24:00",
+    "adresse": null
+  },
+  {
     "id": 3109783631,
     "categorie": "restaurant",
     "nom": "Bibimbaps",
@@ -30508,15 +31066,6 @@
     "lon": 2.3746037,
     "horaires": "Mo-Th 12:00-14:30,18:30-22:00; Fr 12:00-14:10,18:30-22:00; Sa-Su off",
     "adresse": "Rue Villiot"
-  },
-  {
-    "id": 3135018329,
-    "categorie": "restaurant",
-    "nom": "Hachi Bistrot",
-    "lat": 48.890605,
-    "lon": 2.286568,
-    "horaires": null,
-    "adresse": null
   },
   {
     "id": 3135278479,
@@ -32153,7 +32702,7 @@
     "nom": "Ô Petit Club",
     "lat": 48.8791142,
     "lon": 2.2416447,
-    "horaires": null,
+    "horaires": "Tu-Th 12:00-15:00,19:00-21:45; Fr-Sa 12:00-15:00,19:00-22:30",
     "adresse": "Boulevard Richard Wallace"
   },
   {
@@ -35465,7 +36014,7 @@
     "nom": "Léon de Bruxelles",
     "lat": 48.8627554,
     "lon": 2.3470856,
-    "horaires": "Mo-Tu 11:30-15:00, 18:30-22:30; Fr 11:30-15:00, 18:30-23:00; Sa 11:30-00:00; Su 11:30-22:30",
+    "horaires": "Mo-Th 11:45-15:00,18:30-22:30; Fr 11:45-15:00,18:30-23:00; Sa 11:45-23:00; Su 11:45-22:30",
     "adresse": "Rue Rambuteau"
   },
   {
@@ -39650,7 +40199,7 @@
     "nom": "Lao Viet",
     "lat": 48.8233231,
     "lon": 2.373925,
-    "horaires": "We-Mo 12:00-15:00,18:30-22:00",
+    "horaires": "Mo,We-Su 12:00-15:00,18:30-22:30",
     "adresse": null
   },
   {
@@ -42777,6 +43326,15 @@
     "adresse": null
   },
   {
+    "id": 4302298381,
+    "categorie": "cinema",
+    "nom": "Le Lucernaire",
+    "lat": 48.8443113,
+    "lon": 2.3304411,
+    "horaires": null,
+    "adresse": "Rue Notre-Dame-des-Champs"
+  },
+  {
     "id": 4303837891,
     "categorie": "restaurant",
     "nom": "Les Rupins",
@@ -43371,6 +43929,15 @@
     "adresse": null
   },
   {
+    "id": 4362111791,
+    "categorie": "cinema",
+    "nom": "Pathé Beaugrenelle",
+    "lat": 48.8491709,
+    "lon": 2.2822785,
+    "horaires": "Mo-Su 09:30-00:00",
+    "adresse": "Rue Linois"
+  },
+  {
     "id": 4364290299,
     "categorie": "restaurant",
     "nom": "Le Boursault",
@@ -43648,6 +44215,15 @@
     "lon": 2.3377035,
     "horaires": "Tu-Fr 10:00-00:00; Mo 10:00-15:00, 18:30-00:00",
     "adresse": "Rue Saint-Lazare"
+  },
+  {
+    "id": 4390108451,
+    "categorie": "cinema",
+    "nom": "Le Méliès",
+    "lat": 48.8617773,
+    "lon": 2.4426939,
+    "horaires": "Mo 10:45-15:30,17:45-21:00; Tu,Th,Sa,Su 10:45-21:00; We 13:30-21:00; Fr 11:45-21:00",
+    "adresse": "Square Jean Jaurès"
   },
   {
     "id": 4391392490,
@@ -44159,7 +44735,7 @@
     "nom": "Maloya",
     "lat": 48.8721642,
     "lon": 2.3626818,
-    "horaires": null,
+    "horaires": "Mo-Th 19:00-22:30; Fr-Sa 12:00-15:00,19:00-23:30",
     "adresse": null
   },
   {
@@ -46204,6 +46780,15 @@
     "lon": 2.3375851,
     "horaires": "Su-Tu 11:00-21:00; Th-Fr 11:00-21:00",
     "adresse": "Boulevard Saint-Michel"
+  },
+  {
+    "id": 4691885430,
+    "categorie": "cinema",
+    "nom": "MK2 Parnasse",
+    "lat": 48.842839,
+    "lon": 2.330617,
+    "horaires": null,
+    "adresse": "Rue Jules Chaplain"
   },
   {
     "id": 4693659266,
@@ -51113,10 +51698,10 @@
   {
     "id": 5154229971,
     "categorie": "restaurant",
-    "nom": "An Di An Di",
+    "nom": "Bang Bang",
     "lat": 48.8686988,
     "lon": 2.3853113,
-    "horaires": null,
+    "horaires": "We-Fr 12:00-14:00,19:00-23:00; Sa-Su 12:00-15:00,19:00-23:00",
     "adresse": "Rue du Liban"
   },
   {
@@ -56165,7 +56750,7 @@
     "nom": "Le Café d’Ithaque",
     "lat": 48.8518255,
     "lon": 2.3172656,
-    "horaires": null,
+    "horaires": "Mo-Fr 07:30-23:00; Sa 10:00-23:00; Su 10:00-17:00",
     "adresse": "Rue Barbet de Jouy"
   },
   {
@@ -56932,6 +57517,15 @@
     "lon": 2.3254453,
     "horaires": "07:00-02:00",
     "adresse": "Place de la Madeleine"
+  },
+  {
+    "id": 5927447654,
+    "categorie": "cinema",
+    "nom": "Ciné X Atlas",
+    "lat": 48.8825765,
+    "lon": 2.3376442,
+    "horaires": null,
+    "adresse": "Boulevard de Clichy"
   },
   {
     "id": 5928377005,
@@ -58937,7 +59531,7 @@
     "nom": "L'Office",
     "lat": 48.8739584,
     "lon": 2.3474526,
-    "horaires": null,
+    "horaires": "Mo-Fr 12:00-14:30,19:00-22:30; Sa 19:00-22:30",
     "adresse": null
   },
   {
@@ -59766,6 +60360,15 @@
     "lat": 48.8642595,
     "lon": 2.3413328,
     "horaires": "Mo-Fr 08:00-14:30, Th-Sa 19:00-22:00, Sa,Su 11:00-16:00",
+    "adresse": null
+  },
+  {
+    "id": 6322027727,
+    "categorie": "cinema",
+    "nom": "Le Village",
+    "lat": 48.8853485,
+    "lon": 2.2682677,
+    "horaires": null,
     "adresse": null
   },
   {
@@ -61367,6 +61970,15 @@
     "nom": "La Crêperie des Lilas",
     "lat": 48.8794391,
     "lon": 2.4125573,
+    "horaires": null,
+    "adresse": null
+  },
+  {
+    "id": 6576684299,
+    "categorie": "cinema",
+    "nom": "Club de l'Étoile",
+    "lat": 48.8761289,
+    "lon": 2.2953519,
     "horaires": null,
     "adresse": null
   },
@@ -64521,6 +65133,15 @@
     "adresse": null
   },
   {
+    "id": 7242916434,
+    "categorie": "cinema",
+    "nom": "Les 7 Batignolles",
+    "lat": 48.8923634,
+    "lon": 2.3104765,
+    "horaires": "Mo-Tu, Th-Fr 13:20-00:30; We, Sa-Su 09:20-23:30",
+    "adresse": "Allée Colette Heilbronner"
+  },
+  {
     "id": 7242916435,
     "categorie": "restaurant",
     "nom": "Crêperie du Palais",
@@ -65826,6 +66447,15 @@
     "adresse": null
   },
   {
+    "id": 7609468698,
+    "categorie": "cinema",
+    "nom": "Le Vincennes",
+    "lat": 48.8451192,
+    "lon": 2.4342965,
+    "horaires": "Mo-Su 13:15-24:00",
+    "adresse": null
+  },
+  {
     "id": 7612960279,
     "categorie": "restaurant",
     "nom": "Meat & Wine",
@@ -66507,6 +67137,33 @@
     "lat": 48.8442699,
     "lon": 2.4054415,
     "horaires": "Su-Th 08:00-20:00; Fr 08:00-15:00",
+    "adresse": null
+  },
+  {
+    "id": 7768900435,
+    "categorie": "cinema",
+    "nom": "Pathé Wepler (côté place)",
+    "lat": 48.8839908,
+    "lon": 2.3281131,
+    "horaires": null,
+    "adresse": null
+  },
+  {
+    "id": 7768954429,
+    "categorie": "cinema",
+    "nom": "UGC Ciné Cité La Défense",
+    "lat": 48.8910945,
+    "lon": 2.2353195,
+    "horaires": "Mo 00:00-00:30,09:30-00:30; Tu-Sa 09:30-00:30; Su 09:30-24:00",
+    "adresse": null
+  },
+  {
+    "id": 7769027851,
+    "categorie": "cinema",
+    "nom": "UGC Ciné Cité Maillot",
+    "lat": 48.8799338,
+    "lon": 2.284076,
+    "horaires": "Mo 00:00-00:30,10:00-00:30; Tu-Sa 10:00-00:30; Su 10:00-24:00",
     "adresse": null
   },
   {
@@ -69705,6 +70362,15 @@
     "adresse": null
   },
   {
+    "id": 8754464632,
+    "categorie": "cinema",
+    "nom": "Auditorium de la Cité de l'architecture et du patrimoine",
+    "lat": 48.8630733,
+    "lon": 2.2909502,
+    "horaires": "\"Selon la programmation de la Cité de l'architecture\"",
+    "adresse": null
+  },
+  {
     "id": 8754911717,
     "categorie": "restaurant",
     "nom": "Eats Thyme",
@@ -70866,6 +71532,15 @@
     "adresse": "Rue du Faubourg Saint-Antoine"
   },
   {
+    "id": 8999402818,
+    "categorie": "cinema",
+    "nom": "Cinéma en plein air de La Villette",
+    "lat": 48.8917135,
+    "lon": 2.3920312,
+    "horaires": "Jul-Aug",
+    "adresse": null
+  },
+  {
     "id": 8999742321,
     "categorie": "restaurant",
     "nom": "Phô5",
@@ -71366,8 +72041,8 @@
     "nom": "Hon Ki",
     "lat": 48.8519867,
     "lon": 2.3484797,
-    "horaires": null,
-    "adresse": null
+    "horaires": "Mo-Th 12:00-15:00; Fr-Sa 12:00-15:00,19:00-22:30",
+    "adresse": "Rue de la Bûcherie"
   },
   {
     "id": 9146864044,
@@ -72609,7 +73284,7 @@
     "lat": 48.8508848,
     "lon": 2.3506377,
     "horaires": null,
-    "adresse": null
+    "adresse": "Rue de Bièvre"
   },
   {
     "id": 9504252408,
@@ -72851,6 +73526,15 @@
     "nom": "Ladess",
     "lat": 48.8854969,
     "lon": 2.3263144,
+    "horaires": null,
+    "adresse": null
+  },
+  {
+    "id": 9542944867,
+    "categorie": "cinema",
+    "nom": "Pathé Wepler (côté avenue)",
+    "lat": 48.8842267,
+    "lon": 2.3273141,
     "horaires": null,
     "adresse": null
   },
@@ -73103,6 +73787,15 @@
     "nom": "Prik Thaï",
     "lat": 48.8787423,
     "lon": 2.3456865,
+    "horaires": null,
+    "adresse": null
+  },
+  {
+    "id": 9569632670,
+    "categorie": "cinema",
+    "nom": "Studio des Ursulines",
+    "lat": 48.8427477,
+    "lon": 2.3420612,
     "horaires": null,
     "adresse": null
   },
@@ -73724,7 +74417,7 @@
     "nom": "Lao Viet",
     "lat": 48.8233923,
     "lon": 2.3741523,
-    "horaires": null,
+    "horaires": "Mo,We-Su 12:00-15:00,18:30-22:30",
     "adresse": null
   },
   {
@@ -75686,7 +76379,7 @@
     "nom": "Anicia",
     "lat": 48.8467155,
     "lon": 2.3213619,
-    "horaires": null,
+    "horaires": "Tu-Sa 12:00-21:30",
     "adresse": null
   },
   {
@@ -76435,6 +77128,15 @@
     "lon": 2.3470232,
     "horaires": "Tu-Su 12:00-15:00,19:00-22:30",
     "adresse": "Rue des Carmes"
+  },
+  {
+    "id": 9995108356,
+    "categorie": "cinema",
+    "nom": "UGC Issy-les-Moulineaux",
+    "lat": 48.8263635,
+    "lon": 2.2744845,
+    "horaires": "Mo-Su 10:15-23:30",
+    "adresse": null
   },
   {
     "id": 9995457166,
@@ -79886,11 +80588,11 @@
   {
     "id": 10837281188,
     "categorie": "restaurant",
-    "nom": "La Ficelle",
+    "nom": "Sharma Ji",
     "lat": 48.8472997,
     "lon": 2.2982906,
     "horaires": null,
-    "adresse": null
+    "adresse": "Rue Frémicourt"
   },
   {
     "id": 10841494005,
@@ -81655,15 +82357,6 @@
     "lon": 2.3218177,
     "horaires": null,
     "adresse": "Rue de Rome"
-  },
-  {
-    "id": 11139458571,
-    "categorie": "restaurant",
-    "nom": "Moudiba's Taste",
-    "lat": 48.88567,
-    "lon": 2.3106355,
-    "horaires": null,
-    "adresse": null
   },
   {
     "id": 11139474511,
@@ -95391,6 +96084,15 @@
     "adresse": null
   },
   {
+    "id": 14003653721,
+    "categorie": "cinema",
+    "nom": "Pathé Île Seguin",
+    "lat": 48.8225887,
+    "lon": 2.2370902,
+    "horaires": null,
+    "adresse": null
+  },
+  {
     "id": 14011479682,
     "categorie": "restaurant",
     "nom": "TB CNIT",
@@ -96325,6 +97027,24 @@
     "lon": 2.2771086,
     "horaires": "Mo-Su 10:00-20:00-30",
     "adresse": "Rue Madeleine Michelis"
+  },
+  {
+    "id": 14170219412,
+    "categorie": "restaurant",
+    "nom": "Upper",
+    "lat": 48.8709138,
+    "lon": 2.2971632,
+    "horaires": null,
+    "adresse": null
+  },
+  {
+    "id": 14172633061,
+    "categorie": "restaurant",
+    "nom": "Bici",
+    "lat": 48.8576902,
+    "lon": 2.3004561,
+    "horaires": null,
+    "adresse": null
   },
   {
     "id": 4083189,
@@ -98127,6 +98847,15 @@
     "adresse": null
   },
   {
+    "id": 40579763,
+    "categorie": "cinema",
+    "nom": "MK2 Odéon (côté Saint-Michel)",
+    "lat": 48.8521924,
+    "lon": 2.3428832,
+    "horaires": null,
+    "adresse": "Rue Hautefeuille"
+  },
+  {
     "id": 40650819,
     "categorie": "park",
     "nom": "Jardin Lesseps",
@@ -98820,6 +99549,15 @@
     "adresse": null
   },
   {
+    "id": 58426944,
+    "categorie": "cinema",
+    "nom": "Cinéma du Panthéon",
+    "lat": 48.8474649,
+    "lon": 2.3424638,
+    "horaires": null,
+    "adresse": "Rue Victor Cousin"
+  },
+  {
     "id": 59544128,
     "categorie": "restaurant",
     "nom": "CROUS Restaurant Universitaire Censier",
@@ -98901,6 +99639,15 @@
     "adresse": null
   },
   {
+    "id": 62379531,
+    "categorie": "cinema",
+    "nom": "MK2 Bibliothèque",
+    "lat": 48.8324542,
+    "lon": 2.3754823,
+    "horaires": null,
+    "adresse": "Avenue de France"
+  },
+  {
     "id": 62522583,
     "categorie": "park",
     "nom": "Square Francis Poulenc",
@@ -98964,6 +99711,15 @@
     "adresse": null
   },
   {
+    "id": 63198697,
+    "categorie": "cinema",
+    "nom": "Le Louxor",
+    "lat": 48.8835038,
+    "lon": 2.3500486,
+    "horaires": null,
+    "adresse": null
+  },
+  {
     "id": 63224756,
     "categorie": "restaurant",
     "nom": "Pavillon du Lac",
@@ -98989,6 +99745,33 @@
     "lon": 2.3771778,
     "horaires": null,
     "adresse": null
+  },
+  {
+    "id": 63971384,
+    "categorie": "cinema",
+    "nom": "MK2 Quai de Loire",
+    "lat": 48.884189,
+    "lon": 2.3721826,
+    "horaires": null,
+    "adresse": "Quai de la Loire"
+  },
+  {
+    "id": 64039320,
+    "categorie": "cinema",
+    "nom": "MK2 Quai de Seine",
+    "lat": 48.885007,
+    "lon": 2.3714598,
+    "horaires": null,
+    "adresse": "Quai de la Seine"
+  },
+  {
+    "id": 64040790,
+    "categorie": "cinema",
+    "nom": "La Géode",
+    "lat": 48.8945682,
+    "lon": 2.3886565,
+    "horaires": "Mo-Su 09:00-22:00",
+    "adresse": "Corentin Cariou"
   },
   {
     "id": 64323781,
@@ -99279,6 +100062,24 @@
     "adresse": "Rue du Helder"
   },
   {
+    "id": 69221119,
+    "categorie": "cinema",
+    "nom": "Pathé Palace",
+    "lat": 48.8713411,
+    "lon": 2.3335897,
+    "horaires": null,
+    "adresse": null
+  },
+  {
+    "id": 69226411,
+    "categorie": "attraction",
+    "nom": "Paris Story",
+    "lat": 48.8723873,
+    "lon": 2.3305146,
+    "horaires": null,
+    "adresse": null
+  },
+  {
     "id": 69329957,
     "categorie": "restaurant",
     "nom": "Ma Dame",
@@ -99322,6 +100123,15 @@
     "lon": 2.4040313,
     "horaires": "Tu-Sa 09:30-01:00; Su 11:00-17:00",
     "adresse": "Rue Pelleport"
+  },
+  {
+    "id": 70150588,
+    "categorie": "cinema",
+    "nom": "MK2 Gambetta",
+    "lat": 48.8646263,
+    "lon": 2.3995431,
+    "horaires": null,
+    "adresse": null
   },
   {
     "id": 70184664,
@@ -99387,6 +100197,15 @@
     "adresse": null
   },
   {
+    "id": 73117696,
+    "categorie": "cinema",
+    "nom": "Ciné 104",
+    "lat": 48.8918441,
+    "lon": 2.4089225,
+    "horaires": "Mo 13:30-23:00; Tu 18:00-23:30; We 13:00-23:00; Th 20:00-23:00; Fr 18:00-23:30; Sa 13:00-23:00; Su 10:45-21:00",
+    "adresse": "Avenue Jean Lolive"
+  },
+  {
     "id": 73121534,
     "categorie": "restaurant",
     "nom": "Le Melgacense",
@@ -99401,6 +100220,15 @@
     "nom": "Jardin Choisy Caillaux",
     "lat": 48.8226415,
     "lon": 2.3622254,
+    "horaires": null,
+    "adresse": null
+  },
+  {
+    "id": 73626851,
+    "categorie": "cinema",
+    "nom": "Le Trianon",
+    "lat": 48.8841199,
+    "lon": 2.4410798,
     "horaires": null,
     "adresse": null
   },
@@ -99621,6 +100449,15 @@
     "adresse": null
   },
   {
+    "id": 78271296,
+    "categorie": "cinema",
+    "nom": "UGC Ciné Cité Bercy",
+    "lat": 48.8321847,
+    "lon": 2.3852684,
+    "horaires": "Mo 00:00-01:00,09:30-01:00; Tu-Sa 09:30-01:00; Su 09:30-24:00",
+    "adresse": "Cours Saint-Emilion"
+  },
+  {
     "id": 78407067,
     "categorie": "restaurant",
     "nom": "Kazuki",
@@ -99654,6 +100491,15 @@
     "lat": 48.8255087,
     "lon": 2.3537284,
     "horaires": "Mo-Su 12:00-14:30, Th-Su 19:00-21:30",
+    "adresse": null
+  },
+  {
+    "id": 78534914,
+    "categorie": "cinema",
+    "nom": "Fondation Jérôme Seydoux-Pathé",
+    "lat": 48.83349,
+    "lon": 2.3548903,
+    "horaires": null,
     "adresse": null
   },
   {
@@ -99709,6 +100555,24 @@
     "lon": 2.3348708,
     "horaires": null,
     "adresse": null
+  },
+  {
+    "id": 79628456,
+    "categorie": "cinema",
+    "nom": "Pathé Alésia",
+    "lat": 48.8281191,
+    "lon": 2.3277343,
+    "horaires": "\"En fonction des séances\"",
+    "adresse": "Avenue du Général Leclerc"
+  },
+  {
+    "id": 79633453,
+    "categorie": "cinema",
+    "nom": "Chaplin Denfert",
+    "lat": 48.8338216,
+    "lon": 2.3309336,
+    "horaires": null,
+    "adresse": "Place Denfert-Rochereau"
   },
   {
     "id": 79633987,
@@ -99918,6 +100782,15 @@
     "adresse": null
   },
   {
+    "id": 81614170,
+    "categorie": "cinema",
+    "nom": "Le Cin'Hoche",
+    "lat": 48.8694342,
+    "lon": 2.4171859,
+    "horaires": null,
+    "adresse": "Rue Hoche"
+  },
+  {
     "id": 81618482,
     "categorie": "restaurant",
     "nom": "Chez Laxmi",
@@ -99979,6 +100852,15 @@
     "lon": 2.4580181,
     "horaires": "Su[2] 15:00-18:00",
     "adresse": "Rue du Jardin École"
+  },
+  {
+    "id": 82241063,
+    "categorie": "cinema",
+    "nom": "Cinema Abel Gance",
+    "lat": 48.9005604,
+    "lon": 2.2720655,
+    "horaires": null,
+    "adresse": null
   },
   {
     "id": 82241201,
@@ -102681,6 +103563,15 @@
     "adresse": null
   },
   {
+    "id": 195220622,
+    "categorie": "cinema",
+    "nom": "CGR Cinéma - Paris Les Lilas",
+    "lat": 48.8774635,
+    "lon": 2.409459,
+    "horaires": null,
+    "adresse": "Esplanade Claude Luter"
+  },
+  {
     "id": 197540468,
     "categorie": "park",
     "nom": "Square Robert Schuman",
@@ -103111,6 +104002,15 @@
     "lon": 2.3619639,
     "horaires": "Mo off; Tu-We,Fr-Su 12:00-19:00; Th 12:00-21:00",
     "adresse": "Rue Payenne"
+  },
+  {
+    "id": 244081955,
+    "categorie": "cinema",
+    "nom": "UGC Ciné Cité Paris 19",
+    "lat": 48.8993765,
+    "lon": 2.376791,
+    "horaires": "Mo-Tu 12:15-24:00; We 10:15-24:00; Th-Fr 12:15-24:00; Sa-Su 10:15-24:00",
+    "adresse": null
   },
   {
     "id": 244813369,
@@ -103932,6 +104832,15 @@
     "adresse": "Avenue du Mahatma Gandhi"
   },
   {
+    "id": 311101603,
+    "categorie": "cinema",
+    "nom": "Forum des Images",
+    "lat": 48.8624093,
+    "lon": 2.3452351,
+    "horaires": null,
+    "adresse": "Rue du Cinéma"
+  },
+  {
     "id": 311798610,
     "categorie": "park",
     "nom": null,
@@ -104135,6 +105044,15 @@
     "nom": "Square de l'Église",
     "lat": 48.863606,
     "lon": 2.4451566,
+    "horaires": null,
+    "adresse": null
+  },
+  {
+    "id": 326832121,
+    "categorie": "cinema",
+    "nom": "Pathé Convention",
+    "lat": 48.8377943,
+    "lon": 2.2965057,
     "horaires": null,
     "adresse": null
   },
@@ -105696,6 +106614,15 @@
     "adresse": null
   },
   {
+    "id": 576462282,
+    "categorie": "cinema",
+    "nom": "Pathé Levallois",
+    "lat": 48.8909816,
+    "lon": 2.296405,
+    "horaires": null,
+    "adresse": null
+  },
+  {
     "id": 576739511,
     "categorie": "park",
     "nom": null,
@@ -106045,6 +106972,15 @@
     "lon": 2.2395206,
     "horaires": "Mo-Fr 11:45-15:00",
     "adresse": "Parvis de la Défense"
+  },
+  {
+    "id": 630982183,
+    "categorie": "cinema",
+    "nom": "UGC",
+    "lat": 48.8625955,
+    "lon": 2.3435448,
+    "horaires": "Mo 00:00-01:00,09:00-01:00; Tu-Sa 09:00-01:00; Su 09:00-24:00",
+    "adresse": "Place de la Rotonde"
   },
   {
     "id": 635971855,
@@ -107712,6 +108648,15 @@
     "adresse": null
   },
   {
+    "id": 1084917455,
+    "categorie": "cinema",
+    "nom": "Le Kinétorium",
+    "lat": 48.8788691,
+    "lon": 2.2660969,
+    "horaires": null,
+    "adresse": null
+  },
+  {
     "id": 1093016344,
     "categorie": "park",
     "nom": "Square du Chanoine Viollet",
@@ -107962,6 +108907,15 @@
     "lon": 2.3892153,
     "horaires": null,
     "adresse": null
+  },
+  {
+    "id": 1242464927,
+    "categorie": "cinema",
+    "nom": "Pathé La Villette",
+    "lat": 48.8964267,
+    "lon": 2.3889813,
+    "horaires": null,
+    "adresse": "Avenue Corentin Cariou"
   },
   {
     "id": 1242464928,

@@ -1,0 +1,94 @@
+{
+  "date": "2026-09-12",
+  "meteo": "Couvert",
+  "programme": [
+    {
+      "nom": "Le Capitole",
+      "categorie": "cinema"
+    },
+    {
+      "nom": "Boldère",
+      "categorie": "restaurant"
+    },
+    {
+      "nom": "Musée des Années 30",
+      "categorie": "museum"
+    }
+  ],
+  "trajets": [
+    {
+      "de": "Le Capitole",
+      "vers": "Boldère",
+      "options": [
+        {
+          "mode": "transport_commun",
+          "duree_min": 23.1,
+          "nb_correspondances": 0,
+          "sections": [
+            {
+              "type": "walking",
+              "duree_min": 11.9
+            },
+            {
+              "type": "public_transport",
+              "duree_min": 5.2
+            },
+            {
+              "type": "walking",
+              "duree_min": 6.0
+            }
+          ]
+        },
+        {
+          "mode": "pied",
+          "duree_min": 38.4,
+          "distance_m": 2862.0
+        }
+      ],
+      "recommande": "transport_commun"
+    },
+    {
+      "de": "Boldère",
+      "vers": "Musée des Années 30",
+      "options": [
+        {
+          "mode": "transport_commun",
+          "duree_min": 39.5,
+          "nb_correspondances": 1,
+          "sections": [
+            {
+              "type": "walking",
+              "duree_min": 8.3
+            },
+            {
+              "type": "public_transport",
+              "duree_min": 13.0
+            },
+            {
+              "type": "walking",
+              "duree_min": 1.0
+            },
+            {
+              "type": "waiting",
+              "duree_min": 5.0
+            },
+            {
+              "type": "public_transport",
+              "duree_min": 11.0
+            },
+            {
+              "type": "walking",
+              "duree_min": 1.1
+            }
+          ]
+        },
+        {
+          "mode": "pied",
+          "duree_min": 95.5,
+          "distance_m": 7164.0
+        }
+      ],
+      "recommande": "transport_commun"
+    }
+  ]
+}

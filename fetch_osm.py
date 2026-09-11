@@ -25,6 +25,8 @@ def build_query(bbox: tuple) -> str:
       way["amenity"="restaurant"]({bbox_str});
       node["leisure"="park"]({bbox_str});
       way["leisure"="park"]({bbox_str});
+      node["amenity"="cinema"]({bbox_str});
+      way["amenity"="cinema"]({bbox_str});
     );
     out center tags;
     """

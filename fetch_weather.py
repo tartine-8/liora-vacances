@@ -6,9 +6,6 @@ WEATHER_URL = "https://api.open-meteo.com/v1/forecast"
 
 VILLES_COORDS = {
     "paris": (48.8566, 2.3522),
-    #"rome": (41.9028, 12.4964),
-    #"barcelona": (41.3874, 2.1686),
-    #"tokyo": (35.6762, 139.6503),
 }
 
 WEATHER_CODES = {
@@ -42,17 +39,56 @@ WEATHER_CODES = {
     99: {"fr": "Orage avec grêle forte", "icone": "⛈️"},
 }
 
+
 def fetch_weather(lat: float, lon: float) -> dict:
     params = {
         "latitude": lat,
         "longitude": lon,
         "daily": "weathercode,temperature_2m_max,temperature_2m_min,precipitation_sum",
+        "hourly": "temperature_2m,precipitation,weathercode,cloudcover",
         "timezone": "auto",
-        "forecast_days": 14,
+        "forecast_days": 5,
     }
     response = requests.get(WEATHER_URL, params=params, timeout=30)
     response.raise_for_status()
     return response.json()
+
+
+def build_daily_forecast(data: dict) -> list[dict]:
+    daily = data["daily"]
+    forecast = []
+    for i in range(len(daily["time"])):
+        code = daily["weathercode"][i]
+        meteo = WEATHER_CODES.get(code, {"fr": "Inconnu", "icone": "❓"})
+        forecast.append({
+            "date": daily["time"][i],
+            "temp_max": daily["temperature_2m_max"][i],
+            "temp_min": daily["temperature_2m_min"][i],
+            "precipitation": daily["precipitation_sum"][i],
+            "weathercode": code,
+            "condition": meteo["fr"],
+            "icone": meteo["icone"],
+        })
+    return forecast
+
+
+def build_hourly_forecast(data: dict) -> list[dict]:
+    hourly = data["hourly"]
+    forecast = []
+    for i in range(len(hourly["time"])):
+        code = hourly["weathercode"][i]
+        meteo = WEATHER_CODES.get(code, {"fr": "Inconnu", "icone": "❓"})
+        forecast.append({
+            "datetime": hourly["time"][i],
+            "temperature": hourly["temperature_2m"][i],
+            "precipitation": hourly["precipitation"][i],
+            "couverture_nuageuse": hourly["cloudcover"][i],
+            "weathercode": code,
+            "condition": meteo["fr"],
+            "icone": meteo["icone"],
+        })
+    return forecast
+
 
 def main():
     Path("data/weather").mkdir(parents=True, exist_ok=True)
@@ -61,24 +97,16 @@ def main():
         print(f"Récupération météo pour {ville}...")
         data = fetch_weather(lat, lon)
 
-        daily = data["daily"]
-        forecast = []
-        for i in range(len(daily["time"])):
-            code = daily["weathercode"][i]
-            meteo = WEATHER_CODES.get(code, {"fr": "Inconnu", "icone": "❓"})
-            forecast.append({
-                "date": daily["time"][i],
-                "temp_max": daily["temperature_2m_max"][i],
-                "temp_min": daily["temperature_2m_min"][i],
-                "precipitation": daily["precipitation_sum"][i],
-                "weathercode": code,
-                "condition": meteo["fr"],
-                "icone": meteo["icone"],
-            })
-
+        daily_forecast = build_daily_forecast(data)
         with open(f"data/weather/{ville}.json", "w", encoding="utf-8") as f:
-            json.dump(forecast, f, ensure_ascii=False, indent=2)
-        print(f"  -> {len(forecast)} jours sauvegardés")
+            json.dump(daily_forecast, f, ensure_ascii=False, indent=2)
+        print(f"  -> {len(daily_forecast)} jours sauvegardés dans {ville}.json")
+
+        hourly_forecast = build_hourly_forecast(data)
+        with open(f"data/weather/{ville}_hourly.json", "w", encoding="utf-8") as f:
+            json.dump(hourly_forecast, f, ensure_ascii=False, indent=2)
+        print(f"  -> {len(hourly_forecast)} points horaires sauvegardés dans {ville}_hourly.json")
+
 
 if __name__ == "__main__":
     main()
